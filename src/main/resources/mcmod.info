@@ -1,0 +1,8 @@
+[{
+  "modid": "ouroboros",
+  "name": "Ouroboros Client",
+  "description": "Cheat-client style UI (main menu, pause menu, loading screen, inventory HUD). Visual only, no cheats.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["you"]
+}]
